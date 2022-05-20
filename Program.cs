@@ -8,8 +8,8 @@ namespace pruebaIntel
         {
 
             //---------------------------------
-            //Punto_1 punto_1 = new Punto_1();
-            //punto_1.multiplos();
+            Punto_1 punto_1 = new Punto_1();
+            punto_1.multiplos();
             //---------------------------------
 
             //Punto 2 
