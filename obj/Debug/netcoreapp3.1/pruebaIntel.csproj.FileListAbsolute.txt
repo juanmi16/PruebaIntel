@@ -1,0 +1,14 @@
+C:\Users\Juan Miguel Angulo\source\repos\pruebaIntel\bin\Debug\netcoreapp3.1\pruebaIntel.exe
+C:\Users\Juan Miguel Angulo\source\repos\pruebaIntel\bin\Debug\netcoreapp3.1\pruebaIntel.deps.json
+C:\Users\Juan Miguel Angulo\source\repos\pruebaIntel\bin\Debug\netcoreapp3.1\pruebaIntel.runtimeconfig.json
+C:\Users\Juan Miguel Angulo\source\repos\pruebaIntel\bin\Debug\netcoreapp3.1\pruebaIntel.runtimeconfig.dev.json
+C:\Users\Juan Miguel Angulo\source\repos\pruebaIntel\bin\Debug\netcoreapp3.1\pruebaIntel.dll
+C:\Users\Juan Miguel Angulo\source\repos\pruebaIntel\bin\Debug\netcoreapp3.1\pruebaIntel.pdb
+C:\Users\Juan Miguel Angulo\source\repos\pruebaIntel\obj\Debug\netcoreapp3.1\pruebaIntel.csproj.AssemblyReference.cache
+C:\Users\Juan Miguel Angulo\source\repos\pruebaIntel\obj\Debug\netcoreapp3.1\pruebaIntel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Miguel Angulo\source\repos\pruebaIntel\obj\Debug\netcoreapp3.1\pruebaIntel.AssemblyInfoInputs.cache
+C:\Users\Juan Miguel Angulo\source\repos\pruebaIntel\obj\Debug\netcoreapp3.1\pruebaIntel.AssemblyInfo.cs
+C:\Users\Juan Miguel Angulo\source\repos\pruebaIntel\obj\Debug\netcoreapp3.1\pruebaIntel.csproj.CoreCompileInputs.cache
+C:\Users\Juan Miguel Angulo\source\repos\pruebaIntel\obj\Debug\netcoreapp3.1\pruebaIntel.dll
+C:\Users\Juan Miguel Angulo\source\repos\pruebaIntel\obj\Debug\netcoreapp3.1\pruebaIntel.pdb
+C:\Users\Juan Miguel Angulo\source\repos\pruebaIntel\obj\Debug\netcoreapp3.1\pruebaIntel.genruntimeconfig.cache
